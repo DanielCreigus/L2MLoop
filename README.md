@@ -6,6 +6,9 @@
 
 F1 to add L2M Window to control pool.
 
+**Free version** - some functions are disabled
+**Paid version** - all functionality available
+
 **Bot functions**
 
 * teleport character back to spot
