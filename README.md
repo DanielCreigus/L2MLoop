@@ -4,9 +4,11 @@
 
 ![alt text](http://v1520843.hosted-by-vdsina.ru/logo.png)
 
+F1 to add L2M Window to control pool.
+
 **Bot functions**
 
-* teleport character back to spot with delay in minutes
+* teleport character back to spot
 * teleport character on low hp to town and back to spot
 * using teleport scroll when goes on certain conditions (HP)
 * teleport character back to town when character is under overweight status
