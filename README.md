@@ -33,6 +33,8 @@ For make bot to work you should apply settings below.
 
 
 <code style="color : red">(Required)</code> - these settings should be applied or bot will not work properly.
+
 <code style="color : red">(Optional)</code> - these settings can make bot not work properly sometimes or cause random glitches.
 
 Bot download and How To Install here : 
+https://github.com/DanielCreigus/L2MLoop
