@@ -44,4 +44,4 @@ For make bot to work you should apply settings below.
 
 Bot download and How To Install here : 
 
-[https://github.com/DanielCreigus/L2MLoop](https://github.com/DanielCreigus/L2MLoop/blob/main/l2mupdater.zip)
+[[https://github.com/DanielCreigus/L2MLoop](https://boosty.to/darkvaox/edit-post/1e8021eb-0deb-433a-9f6d-0557e63e496b)https://boosty.to/darkvaox/edit-post/1e8021eb-0deb-433a-9f6d-0557e63e496b](https://github.com/DanielCreigus/L2MLoop/blob/main/l2mupdater.zip)
